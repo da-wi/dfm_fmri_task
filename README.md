@@ -1,7 +1,6 @@
 # Dynamic face-matching task for fMRI
 
-![Faces](https://raw.githubusercontent.com/da-wi/dfm_fmri_task/master/instruction/intro_faces.png)
-![Shapes](https://raw.githubusercontent.com/da-wi/dfm_fmri_task/master/instruction/intro_shapes.png)
+![Overview](https://raw.githubusercontent.com/da-wi/dfm_fmri_task/master/instruction/dfm_fmri_task.png)
 
 This task implements a face- and shape-matching task for fMRI in python. It is based on the original idea of Hariri et al. (2002). The faces for the task are taken with permission from the [Radboud Face Database](https://rafd.socsci.ru.nl/). If you want to use this task, you have to request access to the Radboud Face database at their website. Afterwards, contact me if you need help to generate the animated frames. 
 
