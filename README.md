@@ -89,4 +89,6 @@ If you use this task, please cite one of the following publications:
 
 - Willinger, D., Karipidis, I. I., Häberling, I., Berger, G., Walitza, S., & Brem, S. (2022). Deficient prefrontal-amygdalar connectivity underlies inefficient face processing in adolescent major depressive disorder. _Translational Psychiatry_, 12(1), 195.  
 
+- Hariri AR, Tessitore A, Mattay VS, Fera F, Weinberger DR (2002) The amygdala response to emotional stimuli: a comparison of faces and scenes. _Neuroimage_, 17, 317–323.
+
 - Langner, O., Dotsch, R., Bijlstra, G., Wigboldus, D. H., Hawk, S. T., & Van Knippenberg, A. D. (2010). Presentation and validation of the Radboud Faces Database. _Cognition and emotion_, 24(8), 1377-1388.
