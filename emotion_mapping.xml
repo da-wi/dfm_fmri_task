@@ -1,0 +1,36 @@
+<!-- DO NOT CHANGE THE ORDER OF EMOTION ITEMS -->
+<!-- SETS POSSIBLE TARGET FACES FOR EACH CONDITION -->
+<data>
+	<emotion name="neutral">
+		<target>neutral</target>
+		<target>contemptuous</target>
+	</emotion>
+	<emotion name="angry">
+		<target>angry</target>
+		<target>fearful</target>
+	</emotion>
+	<emotion name="contemptuous">
+		<target>contemptuous</target>
+		<target>sad</target>
+	</emotion>
+	<emotion name="disgusted">
+		<target>disgusted</target>
+		<target>sad</target>
+	</emotion>
+	<emotion name="fearful">
+		<target>angry</target>
+		<target>fearful</target>
+	</emotion>
+	<emotion name="happy">
+		<target>happy</target>
+		<target>surprised</target>
+	</emotion>
+	<emotion name="sad">
+		<target>sad</target>
+		<target>disgusted</target>
+	</emotion>
+	<emotion name="surprised">
+		<target>neutral</target>
+		<target>surprised</target>
+	</emotion>
+</data>
